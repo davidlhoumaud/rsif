@@ -1,5 +1,6 @@
 # RSIF
 Recursive Search In Files.
+
 Recherche récursive dans des fichiers.
 
 INSTALLATION
